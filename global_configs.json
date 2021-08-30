@@ -1,0 +1,9 @@
+{
+    "short_region_id": {
+        "westus": "wus",
+        "eastus": "eus",
+        "westus2": "wus2",
+        "eastus2": "eus2"
+    },
+    "other_settings": ""
+}

@@ -1,0 +1,12 @@
+{
+    "project_details": {
+        "project_name": "aks",
+        "business_unit": "testbu",
+        "team": "testteam",
+        "env": "poc",
+        "owner": "bob",
+        "location": "westus2",
+        "cost_center": "123456",
+        "ITSEC": "ticketnumber"
+    }
+}
